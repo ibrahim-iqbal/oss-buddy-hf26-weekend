@@ -110,3 +110,10 @@ The full write-up with the friend story and the open-source-AI case:
 ## License
 
 MIT.
+
+
+---
+
+<p align="center">
+  <sub><em>crafted by <a href="https://github.com/ibrahim-iqbal">ibrahim-iqbal</a> · <a href="https://dev.to/ibrahimiqbal">dev.to</a></em></sub>
+</p>
